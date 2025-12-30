@@ -3,7 +3,7 @@
 This script exists to act as a doom (the 1993 one) launcher. It will install gzdoom from the snap store and provide 10 mods all packaged together. It will also, if consented to, create a cli-doom command that can be used to bring up the launcher and pick your choices. 
 
 
-❗ You will need official WAD files to play these mods ❗
+❗ You will need official WAD files to play these mods. This program will check for these files before running. ❗
 
 ## Features
 
